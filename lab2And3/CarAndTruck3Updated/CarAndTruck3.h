@@ -1,0 +1,14 @@
+//
+// Created by nelly on 06.11.22.
+//
+
+#ifndef CARANDTRUCK3UPDATED_CARANDTRUCK3_H
+#define CARANDTRUCK3UPDATED_CARANDTRUCK3_H
+
+
+class CarAndTruck3 {
+
+};
+
+
+#endif //CARANDTRUCK3UPDATED_CARANDTRUCK3_H
